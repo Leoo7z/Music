@@ -4,17 +4,27 @@
   ]
 },
 {
-    "pinterest": 'Masukkan No Aktif'
+    "pinterest": [
+    "Masukkan No Aktif"
+  ]
 },
 {
-    "apirestz": '\ncode :'
+    "apirestz": [
+    "\ncode :"
+  ]
 },
 {
-    "ig-srarch": '\nMasukan Nomor Active'
+    "ig-srarch": [
+    "\nMasukan Nomor Active"
+  ]
 },
 {
-    "autoai-apirest": 'nomor :'
+    "autoai-apirest": [
+    "nomor :"
+  ]
 },
 {
-    "ig-respdl": 'nomor lu ga terdaftar peot'
+    "ig-respdl": [
+    "nomor lu ga terdaftar peot"
+  ]
 }
