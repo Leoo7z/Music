@@ -1,30 +1,8 @@
 {
-    "YouTube": [
-    "6289513433236"
-  ]
-},
-{
-    "pinterest": [
-    "Masukkan No Aktif"
-  ]
-},
-{
-    "apirestz": [
-    "\ncode :"
-  ]
-},
-{
-    "ig-srarch": [
-    "\nMasukan Nomor Active"
-  ]
-},
-{
-    "autoai-apirest": [
-    "nomor :"
-  ]
-},
-{
-    "ig-respdl": [
-    "nomor lu ga terdaftar peot"
-  ]
-}
+    "YouTube": ["6289513433236"],
+    "pinterest": ["Masukkan No Aktif"],
+    "apirestz": ["\ncode :"],
+    "ig-srarch": ["\nMasukan Nomor Active"],
+    "autoai-apirest": ["nomor :"],
+    "ig-respdl": ["nomor lu ga terdaftar peot"]
+]
